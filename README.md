@@ -1,4 +1,4 @@
-# 🧠 Data Mining (Autumn 2025) — IT University of Copenhagen
+# Data Mining (Autumn 2025) — IT University of Copenhagen
 
 This repository contains my exercises, assignments, and final project for the **Data Mining** course in the Autumn semester of 2025 at ITU. The course is part of the MSc in Software Design program and serves as an **introduction to machine learning**, focusing on practical algorithmic approaches to extracting insights from data. Topics include classification, clustering, association rule mining, and predictive modeling using hands-on Python implementations and real-world datasets.
  
